@@ -1,5 +1,7 @@
 # Decentralized Grant System
 
+![image](https://github.com/user-attachments/assets/85a6894c-3637-45c4-bd06-489fcbb079d1)
+
 ## Vision
 
 The Decentralized Grant System aims to revolutionize the way grants for educational research are distributed by leveraging blockchain technology. Our mission is to create a transparent, efficient, and tamper-proof system for allocating funds through smart contracts, ensuring that educational institutions and researchers receive financial support in a fair and decentralized manner. By eliminating intermediaries and reducing administrative overhead, we envision a more equitable distribution of resources that fosters innovation and educational advancement.
