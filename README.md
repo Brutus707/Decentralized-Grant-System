@@ -47,6 +47,8 @@ The Decentralized Grant System aims to revolutionize the way grants for educatio
 - **Contract Address**: `0x188aF6A44C2561bBA1996555deD995Bcf2C603D4`
   - This is the Ethereum address of the deployed smart contract responsible for managing grant proposals, approvals, and fund distributions.
 
+![image](https://github.com/user-attachments/assets/05ed9bb4-eeba-43c9-b165-ef265f4b22e3)
+
 ## Future Scope
 
 1. **Multi-Chain Support**: Expand compatibility to include multiple blockchain networks for broader reach and flexibility.
