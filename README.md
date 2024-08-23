@@ -43,7 +43,7 @@ The Decentralized Grant System aims to revolutionize the way grants for educatio
 
 ## Smart Contract Address
 
-- **Network**: `Ethereum/Polygon/BSC, etc.`
+- **Network**: `EduChain TestNet`
 - **Contract Address**: `0xa0c91614C127393e25D93eA20207a3e34C221eDB`
   - This is the Ethereum address of the deployed smart contract responsible for managing grant proposals, approvals, and fund distributions.
 
