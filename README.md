@@ -57,7 +57,7 @@ The Decentralized Grant System aims to revolutionize the way grants for educatio
 
 - **Project Lead**: Temjen
 - **Email**: brutusmonk777@gmail.com
-- **GitHub**: [github.com/janedoe](https://github.com/Brutus707)
+- **GitHub**: [github.com/Brutus707](https://github.com/Brutus707)
 
 For any questions, feedback, or support, please reach out to us through the contact details provided. We welcome collaboration and suggestions to enhance the Decentralized Grant System.
 
